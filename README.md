@@ -1,5 +1,6 @@
-Static Server
------------
+THIS README IS OBSOLETE - NEEDS TO BE CHANGED
+===============================================
+
 StaticServer is a small Go Language library that provides a http.handler to serve
 static files in a folder. Unlike the default file server, StaticServer does not
 allow listing of directories - it allows access to files only with a direct URL
